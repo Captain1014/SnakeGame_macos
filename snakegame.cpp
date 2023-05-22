@@ -8,7 +8,7 @@
                         -> gcc -o snakegame snakegame.cpp -lncurses
 
     * Need to revise : time count
-    ** According to the score, show prize and penalty
+ 
 ///////////////////////////////////////////////////////////
 */
 #include <iostream>
